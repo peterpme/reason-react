@@ -95,6 +95,7 @@ See the README inside `src` for more info!
 - [reasonml.org](https://reasonml.org/) - An effort by the Reason Association to improve documentation for ReasonML & BuckleScript
 - [redex.github.io](https://redex.github.io/) - Find bindings for your favorite libraries here
 - [ReasonTown Podcast](https://anchor.fm/reason-town) - ReasonML Podcast
+- [Reason Conf Youtube](https://www.youtube.com/channel/UCtFP_Hn5nIbZY4Xi47qfHhw/videos) - ReasonConf Youtube Channel
 
 ## Editor Support
 
